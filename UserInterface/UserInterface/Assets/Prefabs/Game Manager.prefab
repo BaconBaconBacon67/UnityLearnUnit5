@@ -45,7 +45,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   targets:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 4451333334367049581, guid: 3b72d253959eb7141a358b3b3f3e39f1, type: 3}
+  - {fileID: 4190291659131526108, guid: 36b7dd81b7bc0bb44abc63d3b4e5ab05, type: 3}
+  - {fileID: 6469924702963024751, guid: 8d10b05cccb71564981d5091b3a4d670, type: 3}
+  - {fileID: 4708738383267636585, guid: bdb9527256ad0be4fa269a1e27bd4e11, type: 3}
+  scoreText: {fileID: 0}
